@@ -1,0 +1,20 @@
+{
+  "name": "mochatutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "./node_modules"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "chai": "^4.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "cyriacdomini",
+  "license": "ISC"
+}
