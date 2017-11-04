@@ -3,6 +3,10 @@ export function chicken() {
   var obj2 = {...obj1}
   return "Why did the chicken cross the road?"
 }
+
+function stick(){
+  return "this is a stick"
+}
 /*
 transpiles to
 module.exports = {
